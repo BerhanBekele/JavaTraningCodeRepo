@@ -9,5 +9,5 @@ package et.com.inhousetrainingL11.models;
  * @author MOD
  */
 public class items {
-    
+    private int itemId;
 }
