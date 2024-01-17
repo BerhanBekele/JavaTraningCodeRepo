@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package et.com.inhousetrainingL12.models;
+package et.com.inhousetrainingL11.models;
 import java.util.List;
 
 /**
@@ -19,7 +19,7 @@ private int currentQuantity;
 private int maxCapacity;
 private List<Section> sections; 
 
-public int getWarehouseID(){
+public int getwarehouseID(){
 return warehouseID;
 }
 public void setwarehouseID(int warehouseID){
